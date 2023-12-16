@@ -1,0 +1,19 @@
+# Converting float to integer
+float_number = 3.14
+int_number = int(float_number)
+print(int_number)  # Output: 3
+
+# Changing string to integer
+string_number = "42"
+int_from_string = int(string_number)
+print(int_from_string)  # Output: 42
+
+# Converting integer to float
+int_number = 5
+float_from_int = float(int_number)
+print(float_from_int)  # Output: 5.0
+
+# Changing string to float
+string_float = "3.14"
+float_from_string = float(string_float)
+print(float_from_string)  # Output: 3.14
